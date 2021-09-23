@@ -1,0 +1,9 @@
+.country{
+    background-color: aquamarine;
+    border: 2px solid salmon;
+    padding: 5px;
+    border-radius: 5px;
+}
+.country img{
+    width: 300px;
+}
